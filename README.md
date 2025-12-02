@@ -1,4 +1,4 @@
-🔍 Credit Card Customer Churn Prediction (ML + Streamlit)
+<b>🔍 Credit Card Customer Churn Prediction (ML + Streamlit)</b>
 
 This project predicts whether a bank customer is likely to churn using machine learning.
 It includes full end-to-end development:
